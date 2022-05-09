@@ -1,11 +1,9 @@
 <h2> Brian Marth has a GitHub?! True. <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Full Stack Developer <a href="https://www.codingdojo.com/">Thanks to CodingDojo</a><img src="<iframe src="https://giphy.com/embed/eNAsjO55tPbgaor7ma" width="50" height="480">Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<p><em>Full Stack Developer <a href="https://www.codingdojo.com/">Thanks to CodingDojo</a><img src="https://media4.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif?cid=ecf05e47a8xmwzlpmqb4rwfri0ibfbfbcw7d1y3tfxckhnjo&rid=giphy.gif&ct=s" width="50" height="50"><img src="https://media2.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif?cid=ecf05e47b793ngld9ito9fb84gbd7a64g981r883633apjvs&rid=giphy.gif&ct=g" width="50" height="50"><img src="https://cdn.shopify.com/s/files/1/1390/4967/products/mockup-5e6afade_1024x1024.png" width="50" height="50"></p>
 
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+[![Linkedin: BrianMarth](https://img.shields.io/badge/-bmmarth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bmmarth/)](https://www.linkedin.com/in/bmmarth/)
+[![GitHub marth21911](https://img.shields.io/github/followers/marth21911?label=follow&style=social)](https://github.com/marth21911)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
