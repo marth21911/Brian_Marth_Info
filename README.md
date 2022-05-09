@@ -19,6 +19,6 @@ public class Brian_Marth ()
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>As a new coder I am alwast people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media3.giphy.com/media/GbxZdp9V9TojWhTFeK/giphy.gif?cid=ecf05e4706mljytu0ha5k55bdg6gievupg81wv7d6xjykfae&rid=giphy.gif&ct=s" width="60"> <em><b>As a new coder I am always look to develop new skills and connections</b> so if you want to say <b> reach out, I would love to connect and discuss any of my work (or yours!)</b></em>
 
 ---
