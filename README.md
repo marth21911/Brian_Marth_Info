@@ -1,4 +1,4 @@
-<h2> Brian Marth has a GitHub?! True. <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Brian Marth has a GitHub?! True. <img src="https://media1.giphy.com/media/ejyRYttU1toqHjNZOA/giphy.gif?cid=ecf05e47eezv6q631n2vnurf5yli5ajx3uckkdweh6opxabh&rid=giphy.gif&ct=s" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Full Stack Developer <a href="https://www.codingdojo.com/">Thanks to CodingDojo</a><img src="https://media4.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif?cid=ecf05e47a8xmwzlpmqb4rwfri0ibfbfbcw7d1y3tfxckhnjo&rid=giphy.gif&ct=s" width="50" height="50"><img src="https://media2.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif?cid=ecf05e47b793ngld9ito9fb84gbd7a64g981r883633apjvs&rid=giphy.gif&ct=g" width="50" height="50"><img src="https://cdn.shopify.com/s/files/1/1390/4967/products/mockup-5e6afade_1024x1024.png" width="50" height="50"></p>
 
@@ -6,23 +6,19 @@
 [![GitHub marth21911](https://img.shields.io/github/followers/marth21911?label=follow&style=social)](https://github.com/marth21911)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media4.giphy.com/media/lU9kwCfvT9eOhMJMb9/giphy.gif?cid=ecf05e47kla8aikjan6p4wuza5tr84gc5jb6u4it2dkzarvw&rid=giphy.gif&ct=s" width="50"> Hard coded details...  
 
 ```javascript
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+public class Brian_Marth ()
+  {
+  pronouns: "he" | "him" {get;set;}
+  code: [Javascript, C#, HTML, CSS, Python] {get;set;}
+  tools: [React, DOTNET, Node.js, MySQL, MongoDB, Blazor, EntityCoreFramework, Flask, Camelot/Excalibur] {get;set;}
+  architecture: ["CRUD-operations", "Reactive design", "database design", "class design"] {get;set;}
+ challenge: "Daily algo challenges and defeating the evil Insurance Companies!"
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>As a new coder I am alwast people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
