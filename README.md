@@ -15,7 +15,7 @@ public class Brian_Marth ()
   code: [Javascript, C#, HTML, CSS, Python] {get;set;}
   tools: [React, DOTNET, Node.js, MySQL, MongoDB, Blazor, EntityCoreFramework, Flask, Camelot/Excalibur, Kotlin] {get;set;}
   architecture: ["CRUD-operations", "Reactive design", "database design", "class design"] {get;set;}
- challenge: "Daily algo challenges and defeating the evil Insurance Companies!"
+ challenge: "Daily algo challenges, Kotlin,  and defeating the evil Insurance Companies!"
 }
 ```
 
